@@ -14,6 +14,6 @@ Project Topic: Data Manipulation, Importing, and Data Cleaning
 
 Projcets Name: Analyze Nigeria Car sales
 
-Project Description: Wrote SQL queries to answer interesting questions about the prices of cars in Nigeria
+Project Description: Explored data and Wrote SQL queries to answer interesting questions about the prices of cars in Nigeria
 
 Project Topic: Data Manipulation
